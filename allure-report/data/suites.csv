@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","423","New user end-to-end test journey","webkit","Sat Feb 15 18:48:38 EST 2025","passed","Sat Feb 15 18:48:39 EST 2025","","new-endtoend_test.spec.js","",""
+"","1000","New user end-to-end test journey","firefox","Sat Feb 15 18:48:38 EST 2025","passed","Sat Feb 15 18:48:39 EST 2025","","new-endtoend_test.spec.js","",""
+"","220","New user end-to-end test journey","chromium","Sat Feb 15 18:48:38 EST 2025","passed","Sat Feb 15 18:48:39 EST 2025","","new-endtoend_test.spec.js","",""
