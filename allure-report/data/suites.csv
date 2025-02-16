@@ -1,4 +1,5 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","579","New user end-to-end test journey","chromium","Sat Feb 15 19:54:54 EST 2025","passed","Sat Feb 15 19:54:55 EST 2025","","new-endtoend_test.spec.js","",""
-"","1587","New user end-to-end test journey","firefox","Sat Feb 15 19:54:54 EST 2025","passed","Sat Feb 15 19:54:56 EST 2025","","new-endtoend_test.spec.js","",""
-"","1329","New user end-to-end test journey","webkit","Sat Feb 15 19:54:54 EST 2025","passed","Sat Feb 15 19:54:56 EST 2025","","new-endtoend_test.spec.js","",""
+"","3669","test","chromium","Sun Feb 16 16:21:46 EST 2025","passed","Sun Feb 16 16:21:49 EST 2025","","saceDemoAddToCart.spec.js","",""
+"","2411","New user end-to-end test journey","webkit","Sun Feb 16 16:19:16 EST 2025","passed","Sun Feb 16 16:19:19 EST 2025","","new-endtoend_test.spec.js","",""
+"","702","New user end-to-end test journey","chromium","Sun Feb 16 16:19:16 EST 2025","passed","Sun Feb 16 16:19:17 EST 2025","","new-endtoend_test.spec.js","",""
+"","3511","New user end-to-end test journey","firefox","Sun Feb 16 16:19:16 EST 2025","passed","Sun Feb 16 16:19:20 EST 2025","","new-endtoend_test.spec.js","",""
