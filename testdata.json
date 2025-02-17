@@ -1,0 +1,11 @@
+{
+    "login": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "shippingDetails": {
+      "firstName": "sekhar",
+      "lastName": "sekhar",
+      "zipCode": "02864"
+    }
+}
